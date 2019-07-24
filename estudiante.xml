@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiante id="1">
+  <nombre>
+    Rodrigo
+  </nombre>
+  <edad>
+    18
+  </edad>
+  <correo>
+    rodrigo.gv.pumas@outlook.com
+  </correo>
+  <sexo>
+    masculino
+  </sexo>
+  317226542
+
+<estudiante id="2">
+  <nombre>
+    Diana
+  </nombre>
+  <edad>
+    17
+  </edad>
+  <correo>
+    bere.siempre@gmail.com
+  </correo>
+  <sexo>
+    Femenino
+  </sexo>
+  317183425
+</estudiante>
